@@ -1,0 +1,3 @@
+include ':ulibrary'
+include ':app'
+rootProject.name = "U-Library"

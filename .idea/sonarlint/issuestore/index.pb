@@ -1,0 +1,27 @@
+
+a
+1app/src/main/java/com/u/u_library/MainActivity.kt,e/8/e80469ef865e97d3f63a68b78833d55b75b254a8
+g
+7ulibrary/src/main/java/com/u/ulibrary/log/ULogType.java,0/5/059ec44e1be181e6010314de21fc820c052aea62
+c
+3ulibrary/src/main/java/com/u/ulibrary/log/ULog.java,4/6/46b64bf2221546577b92d845893cfc647aeafa44
+\
+,app/src/main/java/com/u/u_library/BaseApp.kt,1/3/13571a1518f5f7713b0d6d6cc43aadd8121b86a4
+e
+5app/src/main/java/com/u/u_library/ULogDemoActivity.kt,d/f/df155b1d07ac30dcbd2f74fa597099c19b697bce
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+l
+<ulibrary/src/main/java/com/u/ulibrary/log/ULogFormatter.java,1/1/112b9e2a7537747a5aa2b9334317707ec6f1f271
+o
+?ulibrary/src/main/java/com/u/ulibrary/log/UThreadFormatter.java,f/2/f20129f424ce367cef4a56e0509a6f615848055b
+s
+Culibrary/src/main/java/com/u/ulibrary/log/UStackTraceFormatter.java,7/a/7a075907b71bb2911c47b4f56ff4e734425c8bc8
+j
+:ulibrary/src/main/java/com/u/ulibrary/log/ULogPrinter.java,b/f/bfccd93319d9e0e00a1ef5707d6adb6329737f66
+n
+>ulibrary/src/main/java/com/u/ulibrary/log/UConsolePrinter.java,d/8/d82857e09ddb82b4160b6c07bfd0bf64cacede83
+i
+9ulibrary/src/main/java/com/u/ulibrary/log/ULogConfig.java,a/2/a24fdd399f683a91dec43a16e5aa66fda9bfbffd
+j
+:ulibrary/src/main/java/com/u/ulibrary/log/ULogManager.java,1/e/1e8fa01eb75d79aab640c4142f5f55d1835a4e70
